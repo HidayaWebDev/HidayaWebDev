@@ -43,18 +43,8 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=HidayaWebDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Github Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HidayaWebDev&theme=radical&hide_border=false" alt="Github Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidayaWebDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
 
 
-<br/><br/>
-
-<hr/>
 
 <br/>
 
