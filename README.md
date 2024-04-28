@@ -47,7 +47,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=HidayaWebDev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=HidayaWebDev&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HidayaWebDev&theme=radical&hide_border=false" alt="Github Streak Stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidayaWebDev&theme=react&border_radius=10&layout=compact" alt="top langs" />
 </div>
