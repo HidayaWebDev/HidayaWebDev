@@ -1,18 +1,76 @@
-# Hi I'm Hidaya ☺️
-🔭 Currently, I'm exploring AI applications in various projects. I'm also passionate about 3D software like Blender.<br><br>🤝 I'm focused on improving my skills in web security, 3D gaming, AI, and software such as 3ds Max and Blender.<br><br>🌱 Right now, I'm learning React three Fiber while continuing my studies in 3D gaming and AI. I'm also working on enhancing my understanding of web security.<br><br>⚡ Fun fact: Beyond programming, I derive enjoyment from delving into the realm of robotics inventions 🤖.
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HidayaWebDev.HidayaWebDev" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hidaya+Abbas!;" />
+</h1>
 
 
-# 💻 Tech Stack:
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HidayaWebDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HidayaWebDev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HidayaWebDev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=HidayaWebDev&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=HidayaWebDev&icon=0&color=11)](https://visitcount.itsvg.in)
+<div align="center">
+ 
+ 🔭 Currently, I'm exploring AI applications in various projects. I'm also passionate about 3D software like Blender.
+ 
+ 🌱 Right now, I'm learning React three Fiber while continuing my studies in 3D gaming and AI. I'm also working on enhancing my understanding of web security.
+ 
+ 🤝 I'm focused on improving my skills in web security, 3D gaming, AI, and software such as 3ds Max and Blender.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⚡ Fun fact: Beyond programming, I derive enjoyment from delving into the realm of robotics inventions 🤖.
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:hidaya@example.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/hidaya-abbas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://hidayawebdev.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,vite,wordpress,css3,java,python,php,javascript,html5,threejs,mysql,sqlite,canva" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 GitHub Stats 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HidayaWebDev/HidayaWebDev/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=HidayaWebDev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=HidayaWebDev&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HidayaWebDev&theme=react&border_radius=10&layout=compact" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/HidayaWebDev' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
