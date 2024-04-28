@@ -1,4 +1,4 @@
-# 💫 About Me:
+# hi there ☺️
 🔭 Currently, I'm exploring AI applications in various projects. I'm also passionate about 3D software like Blender.<br><br>🤝 I'm focused on improving my skills in web security, 3D gaming, AI, and software such as 3ds Max and Blender.<br><br>🌱 Right now, I'm learning React three Fiber while continuing my studies in 3D gaming and AI. I'm also working on enhancing my understanding of web security.<br><br>⚡ Fun fact: Beyond programming, I derive enjoyment from delving into the realm of robotics inventions 🤖.
 
 
